@@ -1,0 +1,12 @@
+[submodule "mat-comp-model-tools"]
+	path = mat-comp-model-tools
+	url = https://github.com/jCalderTravis/mat-comp-model-tools
+[submodule "bads"]
+	path = bads
+	url = https://github.com/lacerbi/bads.git
+[submodule "circstat-matlab"]
+	path = circstat-matlab
+	url = https://github.com/circstat/circstat-matlab.git
+[submodule "lautils-mat"]
+	path = lautils-mat
+	url = https://github.com/lacerbi/lautils-mat.git
