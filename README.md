@@ -4,7 +4,7 @@ This repository contains code for the analysis in the paper [_Explaining the eff
 
 Contact: Joshua Calder-Travis, j.calder.travis@gmail.com
 
-_Those sections of the code used in associated paper have been carefully checked. Nevertheless, no guarantee or warranty is provided for any part of the code._
+_Those sections of the code used in the associated paper have been carefully checked. Nevertheless, no guarantee or warranty is provided for any part of the code._
 
 ## Main functions
 - `runMultipleLogisicRegressions.m`: Code for running the logistic regressions reported in the paper
