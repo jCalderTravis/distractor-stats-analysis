@@ -10,3 +10,6 @@
 [submodule "lautils-mat"]
 	path = lautils-mat
 	url = https://github.com/lacerbi/lautils-mat.git
+[submodule "distractor-stats-exp"]
+	path = distractor-stats-exp
+	url = https://github.com/jCalderTravis/distractor-stats-exp
