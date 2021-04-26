@@ -4,6 +4,7 @@ function samples = circ_vmrnd_fixed(mu, kappa, shape)
 
 assert(isequal(size(mu), [1, 1]))
 assert(isequal(size(kappa), [1, 1]))
+% Not sure what the reshaping will do if these are not scalars
 
 samples = circ_vmrnd(mu, kappa, shape);
 
