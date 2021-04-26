@@ -1,6 +1,6 @@
 # distractor-stats-analysis
 
-This repository contains code for the analysis in the paper [_Explaining the effects of distractor statistics in visual search_](https://doi.org/10.1101/2020.01.03.893057). Most code is written for Matlab.
+This repository contains code for the analysis in the paper [_Explaining the effects of distractor statistics in visual search_](https://doi.org/10.1101/2020.01.03.893057). Code for the presentation of the stimuli used in the paper is also included, in the submodule distractor-stats-exp. Most code is written for Matlab.
 
 Contact: Joshua Calder-Travis, j.calder.travis@gmail.com
 
